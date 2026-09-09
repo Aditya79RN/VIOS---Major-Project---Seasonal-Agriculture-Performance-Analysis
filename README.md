@@ -12,6 +12,7 @@ The project analyzes agricultural data across different seasons, crops, geograph
 The main purpose of the project is to identify **seasonal patterns, trends, relationships, variations, and differences in agricultural performance** and generate meaningful, data-driven insights.
 
 Google Colab | Development and execution environment
+
 ---
 
 ## 🎯 Problem Statement
