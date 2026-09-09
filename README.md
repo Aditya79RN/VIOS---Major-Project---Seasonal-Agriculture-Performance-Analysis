@@ -212,3 +212,8 @@ The project can be further enhanced by:
 - Developing an interactive dashboard using **Power BI or Tableau**.
 
 ---
+Contact
+Nag Aditya Redboina
+Email: 2200049137ece@gmail.com
+LinkedIn: linkedin.com/in/nag-aditya-116453327/
+GitHub: github.com/Aditya79RN
