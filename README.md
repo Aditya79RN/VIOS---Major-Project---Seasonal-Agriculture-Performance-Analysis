@@ -4,12 +4,14 @@
 
 ## 📌 Project Overview
 
-Seasonal Agriculture Performance Analysis is a Data Analytics project developed as part of the **VOIS AICTE Batch 1 (2026–2027) Major Project**.
+Seasonal Agriculture Performance Analysis is a Data Analytics project developed as part of the
+**VOIS AICTE Batch 1 (2026–2027) Major Project**.
 
 The project analyzes agricultural data across different seasons, crops, geographical regions, environmental conditions, irrigation methods, resource usage, and economic factors.
 
 The main purpose of the project is to identify **seasonal patterns, trends, relationships, variations, and differences in agricultural performance** and generate meaningful, data-driven insights.
 
+Google Colab | Development and execution environment
 ---
 
 ## 🎯 Problem Statement
